@@ -5,12 +5,12 @@ human pose estimation in pytorch on CAREN datasets
 CAREN Dataset
 
 ## Requirements
-pytorch
-torchvision
-visdom
+- pytorch
+- torchvision
+- visdom
 
 ## Traing
-`python -m visdom.server` 打开 `Visdom` 服务器
+`python -m visdom.server` 打开 `Visdom` 服务器,可视化
 
 `python train.py` 即可
 
